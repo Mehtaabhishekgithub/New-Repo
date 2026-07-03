@@ -6,5 +6,6 @@ if __name__ == "__main__":
 
 
 
-    def add(a, b):
-        return a + b
+    print(greet("Tamanna"))
+if __name__ == "__main__":
+    print(greet("Tamanna"))
